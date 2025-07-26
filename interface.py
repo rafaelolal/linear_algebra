@@ -1,5 +1,5 @@
-from .helpers import get_matrix
-from .reduce import print_matrix, scale_row, sum_rows, swap_rows
+from helpers import get_matrix
+from reduce import print_matrix, scale_row, sum_rows, swap_rows
 
 
 def main():
